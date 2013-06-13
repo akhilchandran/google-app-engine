@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+  </head>
+  <body>
+ 
+    <form action="/sign" method="get">
+      <div><input type="submit" value="add student"></div>
+    </form>
+
+    <form action="/detail" method="get">
+      <div><input type="submit" name ="detail" value="students"></div>
+    </form>
+
+    <form action="/detail" method="get">
+      <div><input type="submit" name ="detail" value="sorted by age"></div>
+    </form>
+
+    <form action="/detail" method="get">
+      <div><input type="submit" name ="detail" value="sorted by mark"></div>
+    </form>
+
+  </body>
+</html>

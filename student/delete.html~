@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+  </head>
+  <body>
+    <form action="/delete" method="post">
+      <div><input type="text" name="detail" value="name"></input></div>
+      <div><input type="submit" value="ok"></input></div>
+    </form>
+  </body>
+</html>
+secretary 
